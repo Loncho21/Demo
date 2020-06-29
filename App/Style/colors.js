@@ -1,0 +1,6 @@
+export default {
+    BLACKPRIMARY:'#1b1c1c',
+    WHITEPRIMARY:'#FFFFFF',
+    BLACKSECUNDARY: '#080a0b',
+    ORANGEPRIMARY:'#f3b71d'
+}
